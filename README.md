@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Civic Issue Reporter
 
 A comprehensive mobile application for reporting and tracking civic issues, developed for the Government of Jharkhand. This app enables citizens to report civic problems, track their resolution progress, and engage with their community.
@@ -260,3 +261,6 @@ For technical support or questions about the application:
 ---
 
 **Note**: This application is currently in development. Some features may require backend API integration to be fully functional.
+=======
+This is a demo read me.
+>>>>>>> 2944f67322b470e7f061b99dd35d925137c29644
