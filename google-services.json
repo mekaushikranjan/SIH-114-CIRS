@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302174900155",
+    "project_id": "civicissues-9d991",
+    "storage_bucket": "civicissues-9d991.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302174900155:android:f9557636b56b633ed8fe9e",
+        "android_client_info": {
+          "package_name": "com.jharkhand.civicissuereporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302174900155-lj2im9sqml8t8qhtthbgpusi9fdugam0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_tqoG0sUQMbQuUGhdniearTKdg0OMWlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302174900155-lj2im9sqml8t8qhtthbgpusi9fdugam0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
